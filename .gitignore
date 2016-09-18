@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea
+/build/
+/run/
+/out/
+/.gradle/
+/CHANGELOG.html
