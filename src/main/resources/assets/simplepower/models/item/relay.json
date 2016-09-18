@@ -1,0 +1,6 @@
+{
+  "parent": "simplepower:block/relay",
+  "textures": {
+    "layer0": "simplepower:blocks/relay"
+  }
+}

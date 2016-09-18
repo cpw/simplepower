@@ -1,0 +1,3 @@
+tile.simplepower:block.transmitter.name=Transmitter
+tile.simplepower:block.relay.name=Relay
+tile.simplepower:block.relay.name=Receiver

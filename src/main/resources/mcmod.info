@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "simplepower",
+    "name": "Simple Wirefree Power",
+    "description": "A simple power transfer mod for Forge Energy",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["cpw"],
+    "credits": "cpw",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

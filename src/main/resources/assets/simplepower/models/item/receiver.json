@@ -1,0 +1,6 @@
+{
+  "parent": "simplepower:block/receiver",
+  "textures": {
+    "layer0": "simplepower:blocks/receiver"
+  }
+}

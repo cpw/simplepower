@@ -1,0 +1,6 @@
+{
+  "parent": "simplepower:block/transmitter",
+  "textures": {
+    "layer0": "simplepower:blocks/transmitter"
+  }
+}
