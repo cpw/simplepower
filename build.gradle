@@ -51,7 +51,7 @@ curseforge {
         id = '251181'
         changelog = file('CHANGELOG.html')
         changelogType = 'html'
-        releaseType = 'beta'
+        releaseType = 'alpha'
     }
 }
 
